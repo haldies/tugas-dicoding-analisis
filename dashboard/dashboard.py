@@ -46,7 +46,7 @@ def load_data():
             
             try:
                 df = pd.read_csv(
-                    "https://raw.githubusercontent.com/haldies/tugas-dicoding-data-analisis/refs/heads/main/dashboard/all_data_cleaned.csv")
+                    "https://raw.githubusercontent.com/haldies/tugas-dicoding-analisis/refs/heads/main/dashboard/all_data_cleaned.csv")
                 print("Data berhasil dimuat dari URL.")
             except FileNotFoundError:
                 print("Sumber alternatif tidak ditemukan. Proses gagal.")

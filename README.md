@@ -4,7 +4,7 @@ Here’s a clearer and more structured README for your Streamlit Data Analysis A
 
 # Streamlit Data Analysis App
 
-[Demo Link](https://haldies-tugas-dicoding-data-analisis-dashboardmain-rcjwec.streamlit.app/)
+[Demo Link](https://haldies-tugas-dicoding-analisis-dashboarddashboard-u85spt.streamlit.app/)
 
 This is a simple data analysis web app built using **Streamlit**, **Pandas**, **Seaborn**, **Matplotlib**, and **NumPy**. The app allows users to visualize and analyze data interactively through a user-friendly web interface.
 
