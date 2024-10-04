@@ -21,8 +21,8 @@ Follow these steps to set up the app on your local machine:
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/haldies/tugas-dicoding-data-analisis
-    cd tugas-dicoding-data-analisis
+    git clone https://github.com/haldies/tugas-dicoding-analisis.git or pake
+    https://drive.google.com/file/d/1po6yaK6plHzmDlJcWLNFYV1U4h7uFS2o/view?usp=sharing 
     ```
 
 2. **Create a Virtual Environment** (optional but recommended):
